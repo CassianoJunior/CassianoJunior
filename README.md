@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cassiano Junior</h1>
 
 - 💻 Currently studying Computer Science
-- 🔭 Learning and improving JavaScript, React.js, Next.js and Node.js
+- 🔭 Learning and improving JavaScript and TypeScript, React.js, Next.js and Node.js
 - 🧐 Working to be a fullstack web developer
  
  ##
