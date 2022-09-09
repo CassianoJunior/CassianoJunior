@@ -3,18 +3,16 @@
 - 💻 Currently studying Computer Science
 - 🔭 Learning and improving JavaScript and TypeScript, React.js, Next.js and Node.js
 - 🧐 Working to be a fullstack web developer
- 
+
  ##
-<!-- <img align="right" height="192" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" /> -->
+<img align="right" src="https://user-images.githubusercontent.com/84094066/189259930-54445e31-a198-4a5c-a573-452959904b2d.gif" height="230"/>
 <div align="center">
  <div align="left">
   <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
  </div>
- <div align="right">
-  <img align="center" height="192" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
- </div>
+
 </div>
 
 <h2 align="left">🛠 Tech Stack</h2>
