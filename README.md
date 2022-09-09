@@ -13,7 +13,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
   
  </div>
- <img align="right" height="256" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
+ <img align="right" height="192" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
 </div>
 
 <h2 align="left">🛠 Tech Stack</h2>
