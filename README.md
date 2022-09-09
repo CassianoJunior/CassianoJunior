@@ -5,13 +5,13 @@
 - 🧐 Working to be a fullstack web developer
  
  ##
-
+<img align="right" height="192" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
 <div align="center">
  <div align="left">
   <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" height="192" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
+  
  </div>
 </div>
 
