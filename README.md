@@ -5,25 +5,36 @@
 - 🧐 Working to be a fullstack web developer
  
  ##
-<img align="right" height="128" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
-<div align="left">
+
+<div align="center">
+ <div align="left">
   <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
+  
+ </div>
+ <img align="right" height="256" src="https://user-images.githubusercontent.com/84094066/189255477-e09512b2-cc91-4fc4-8736-3b129c5b75bb.png" />
 </div>
 
-  
-  ## 🛠 Tech Stack
-<div style="display: inline_block">
+<h2 align="left">🛠 Tech Stack</h2>
+<div align="left" style="display: inline_block">
   <img align="center" alt="Cassi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cassi-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cassi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cassi-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Cassi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cassi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Cassi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Cassi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
 </div>
+
+<h2 align="left">🤯 Knowledge in</h2>
+<div align="left" style="display: inline_block">
+  <img align="center" alt="Cassi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Cassi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+</div>
+
+<br/>
+
+## 
 
 <div align='center'>
  <h2>Contact</h2>
