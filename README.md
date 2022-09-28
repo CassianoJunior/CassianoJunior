@@ -32,6 +32,7 @@
  <div align="left">
   <details>
    <summary>🎖️ Github stats</summary>
+   <br/>
    <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    </a>
