@@ -6,16 +6,8 @@
 
  ##
 <img align="right" src="https://user-images.githubusercontent.com/84094066/189259930-54445e31-a198-4a5c-a573-452959904b2d.gif" height="230"/>
-<div align="center">
- <div align="left">
-  <a href="https://github.com/CassianoJunior">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
- </div>
 
-</div>
-
-<h2 align="left">🛠 Tech Stack</h2>
+<h3 align="left">🛠 Tech Stack</h3>
 <div align="left" style="display: inline_block">
   <img align="center" alt="Cassi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cassi-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,16 +16,32 @@
   <img align="center" alt="Cassi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cassi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<h2 align="left">🤯 Knowledge in</h2>
+<br/>
+<h3 align="left">🤯 Knowledge in</h3>
 <div align="left" style="display: inline_block">
   <img align="center" alt="Cassi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Cassi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Cassi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Cassi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 <br/>
 
 ## 
+<div align="center">
+ <div align="left">
+  <details>
+   <summary>🎖️ Github stats</summary>
+   <a href="https://github.com/CassianoJunior">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </a>
+  <a href="https://github.com/CassianoJunior">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  </details>
+ </div>
+
+</div>
 
 <div align='center'>
  <h2>Contact</h2>
