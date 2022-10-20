@@ -37,11 +37,11 @@
 
 <br/>
 
-## 
+##
 <div align="center">
  <div align="left">
   <details>
-   <summary>🎖️ Github stats</summary>
+   <summary>⭐ Github stats</summary>
    <br/>
    <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -49,6 +49,17 @@
   <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  </details>
+ </div>
+ 
+<div align="center">
+ <div align="left">
+  <details>
+   <summary>🎖️ Certifications</summary>
+   <ul>
+    <li><a href="https://www.hackerrank.com/certificates/b2708df3160c">JavaScript (Intermediate) Certificate by HackerRank</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/9bc05b1a074a">Rest API (Intermediate) Certificate by HackerRank</a></li>
+   </ul>
   </details>
  </div>
 
