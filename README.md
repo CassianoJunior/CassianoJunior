@@ -3,6 +3,7 @@
 - 💻 Currently studying Computer Science
 - 🔭 Learning and improving JavaScript and TypeScript, React.js, Next.js and Node.js
 - 🧐 Working to be a fullstack web developer
+- 🎮 Game lover
 
  ##
 <img align="right" src="https://user-images.githubusercontent.com/84094066/189259930-54445e31-a198-4a5c-a573-452959904b2d.gif" height="230"/>
