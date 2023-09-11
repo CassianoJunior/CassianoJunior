@@ -67,4 +67,4 @@
 
 </div>
  
- ![Snake animation](https://github.com/CassianoJunior/CassianoJunior/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/CassianoJunior/CassianoJunior/blob/output/github-contribution-grid-snake.svg) -->
