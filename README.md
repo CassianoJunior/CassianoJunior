@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏽, I'm Cassiano Junior</h1>
+# Hi 👋🏽, I'm Cassiano Junior
 
 - 💻 Currently studying Computer Science
 - 🔭 Learning and improving JavaScript and TypeScript, React.js, Next.js and Node.js
@@ -8,7 +8,7 @@
  ##
 <img align="right" src="https://user-images.githubusercontent.com/84094066/189259930-54445e31-a198-4a5c-a573-452959904b2d.gif" height="230"/>
 
-<h3 align="left">🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 <div align="left" style="display: inline_block">
   <img title="JavaScript" align="center" alt="Cassi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="TypeScript" align="center" alt="Cassi-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +21,8 @@
   <img title="TailwindCSS" align="center" alt="Cassi-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 <br/>
-<h3 align="left">🧠 Learning</h3>
+
+### 🧠 Learning
 <div align="left" style="display: inline_block">
   <img title="Storybook" align="center" alt="Cassi-Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /> 
   <img title="Figma" align="center" alt="Cassi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -29,7 +30,8 @@
   
 </div>
 <br/>
-<h3 align="left">🤯 Knowledge in</h3>
+
+### 🤯 Knowledge in
 <div align="left" style="display: inline_block">
   <img title="Python" align="center" alt="Cassi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img title="Java" align="center" alt="Cassi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
