@@ -48,7 +48,8 @@
    <summary>⭐ Github stats</summary>
    <br/>
    <a href="https://github.com/CassianoJunior">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassianoJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cassianojunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   
    </a>
   <a href="https://github.com/CassianoJunior">
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoJunior&layout=compact&langs_count=7&theme=tokyonight"/>
