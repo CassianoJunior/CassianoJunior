@@ -1,7 +1,7 @@
 # Hi 👋🏽, I'm Cassiano Junior
 
 - 💻 Currently studying Computer Science
-- 🔭 Learning and improving JavaScript and TypeScript, React.js, Next.js and Node.js
+- 🔭 Learning and improving JavaScript and TypeScript, React.js, Next.js, Node.js and NestJS
 - 🧐 Working to be a fullstack web developer
 - 🎮 Game lover
 
@@ -10,23 +10,23 @@
 
 ### 🛠 Tech Stack
 <div align="left" style="display: inline_block">
-  <img title="JavaScript" align="center" alt="Cassi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="TypeScript" align="center" alt="Cassi-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img title="ReactJS" align="center" alt="Cassi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="NodeJS" align="center" alt="Cassi-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img title="NestJS" align="center" alt="Cassi-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img title="NextJS" align="center" alt="Cassi-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img title="HTML5" align="center" alt="Cassi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS3" align="center" alt="Cassi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="TailwindCSS" align="center" alt="Cassi-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img title="JavaScript" align="center" alt="javascript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img title="TypeScript" align="center" alt="ypescript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img title="ReactJS" align="center" alt="react-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="NodeJS" align="center" alt="node-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img title="NestJS" align="center" alt="nest-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+  <img title="NextJS" align="center" alt="next-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img title="HTML5" align="center" alt="html-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="CSS3" align="center" alt="css-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img title="TailwindCSS" align="center" alt="tailwindcss-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 <br/>
 
 ### 🧠 Learning
 <div align="left" style="display: inline_block">
-  <img title="Storybook" align="center" alt="Cassi-Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /> 
-  <img title="Figma" align="center" alt="Cassi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img title="GraphQL" align="center" alt="Cassi-GQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img title="NeoVim" align="center" alt="nvim-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> 
+  <img title="Figma" align="center" alt="figma-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img title="GraphQL" align="center" alt="gql-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   
 </div>
 <br/>
