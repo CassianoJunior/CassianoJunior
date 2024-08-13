@@ -27,7 +27,7 @@
   <img title="NeoVim" align="center" alt="nvim-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> 
   <img title="Figma" align="center" alt="figma-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img title="GraphQL" align="center" alt="gql-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-  
+  <img title="Go" align="center" alt="gql-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />        
 </div>
 <br/>
 
